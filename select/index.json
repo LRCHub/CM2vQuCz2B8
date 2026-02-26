@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "片目のウィリー",
+  "base_artist": "THE PINBALLS",
+  "createdAt": "2026-02-26T01:59:37.467625Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "片目のウィリー",
+      "artist": "THE PINBALLS",
+      "has_synced": true,
+      "path": "select/01_片目のウィリー_THE_PINBALLS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "片目のウィリー",
+      "artist": "THE PINBALLS",
+      "has_synced": false,
+      "path": "select/pl_01_片目のウィリー_THE_PINBALLS.txt"
+    }
+  ]
+}
